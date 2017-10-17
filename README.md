@@ -12,5 +12,5 @@ Pre-requisites
 
 Screenshots
 -----------
-<img src="https://imgur.com/SMQllbC.png" width="250"> <img src="https://imgur.com/hnEKgwH.png" width="250"> <img src="https://imgur.com/Re02uNz.png" width="250"> 
+<img src="https://imgur.com/SMQllbC.png" width="250"> <img src="https://imgur.com/8ubVMsQ.png" width="250"> <img src="https://imgur.com/VbSr2sq.png" width="250"> 
  
