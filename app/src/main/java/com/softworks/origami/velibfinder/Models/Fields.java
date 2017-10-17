@@ -29,8 +29,8 @@ public class Fields {
     @SerializedName("last_update")
     public final Date lastUpdate;
 
-    public Fields(String name, String address, String status, int bike_stands,
-                  int available_bike_stands, Date lastUpdate) {
+    public Fields(String name, String address, String status, int available_bike_stands,
+                  int bike_stands, Date lastUpdate) {
         this.name = name;
         this.address = address;
         this.status = status;
